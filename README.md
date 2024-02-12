@@ -31,4 +31,4 @@ Poszczególne zadania rozwiązuj w odpowiednich plikach.
 npm install
 ```
 
-Dzięki temu zostaną zainstalowane wszystkie zależności potrzebne do pracy z tym repozytorium.
+Dzięki temu zostaną zainstalowane wszystkie zależności potrzebne do pracy z tym repozytorium.# ReduxTrainingCopy

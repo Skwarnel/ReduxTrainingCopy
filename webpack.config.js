@@ -1,7 +1,8 @@
 const path = require("path");
-const webpack = require("webpack");
 
-const entryPath = "01_Dzien_1/01_Podstawy_zdarzen/01_Zadanie_1";
+const NodePolyfillPlugin = require("node-polyfill-webpack-plugin")
+
+const entryPath = "01_Dzien_1/01_Implementacja/01_Implementacja_Redux";
 
 module.exports = {
   mode: "none",
@@ -39,8 +40,6 @@ module.exports = {
     ],
   },
   plugins: [
-    new webpack.ProvidePlugin({
-      process: "process/browser",
-    }),
-  ],
+    new NodePolyfillPlugin()
+  ]
 };
