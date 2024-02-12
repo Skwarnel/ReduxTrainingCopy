@@ -32,3 +32,4 @@ npm install
 ```
 
 Dzięki temu zostaną zainstalowane wszystkie zależności potrzebne do pracy z tym repozytorium.# ReduxTrainingCopy
+# ReduxTrainingCopy

@@ -2,7 +2,7 @@ const path = require("path");
 
 const NodePolyfillPlugin = require("node-polyfill-webpack-plugin")
 
-const entryPath = "01_Dzien_1/01_Implementacja/01_Implementacja_Redux";
+const entryPath = "03_Dzien_4/01_Komponenty/01_Zadanie_1";
 
 module.exports = {
   mode: "none",
